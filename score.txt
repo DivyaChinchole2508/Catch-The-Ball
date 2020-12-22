@@ -1,0 +1,63 @@
+smt ,3
+Divya ,1
+Smita ,7
+Nitin ,10
+Saee ,5
+Anusha ,5
+Abc ,4
+divya ,9
+divya ,2
+DivyaCh ,32
+fhdu ,8
+divay ,24
+divay ,1
+divya ,1
+ghf ,1
+ghf ,1
+lkj ,6
+ffddv ,1
+hgh ,0
+sda ,0
+dids ,16
+Divya ,7
+Smita  ,4
+lkj ,5
+lkj ,3
+assd ,3
+Samar ,8
+dnc ,1
+divya ,0
+hi ,11
+divya ,2
+bhbh ,13
+divya ,1
+firpe ,7
+ejhf ,0
+erfvd ,1
+erfvd ,6
+mn ,34
+ncjnc ,1
+dff ,1
+figtd ,0
+gdbjc  ,10
+sddc ,1
+Divya ,5
+Divya ,16
+SmitaNC ,8
+DivyaNC,17
+divta hjsnj,51
+Aahana  ,1
+Aahana  ,1
+Aahana  ,0
+Aahana  ,0
+Aahana  ,10
+Aahana  ,1
+Aahana  ,1
+Aahana  ,2
+Aahana  ,0
+Aahana  ,0
+divyachinchole,0
+firegirl,25
+firegirl,1
+serena,21
+serena,2
